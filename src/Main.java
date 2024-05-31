@@ -10,10 +10,12 @@ public class Main {
         double sugar = 1.75;
         System.out.println("Значение переменной apples с типом int равно " + apples);
         System.out.println("Значение переменной carrots с типом byte равно " + carrots);
-        System.out.println("Значение переменной bananas с типом short равно " + cucumbers);
+        System.out.println("Значение переменной cucumbers с типом short равно " + cucumbers);
         System.out.println("Значение переменной potatoes с типом long равно " + potatoes);
-        System.out.println("Значение переменной milk с типом float равно " + vodka);
+        System.out.println("Значение переменной vodka с типом float равно " + vodka);
         System.out.println("Значение переменной sugar с типом double равно " + sugar);
+
+        System.out.println("Задание 2");
 
         byte a = 67;
         short b = -159;
@@ -22,6 +24,13 @@ public class Main {
         long e = 987678965549L;
         float f = 27.12f;
         double g = 2.786;
+        System.out.println("Значение переменной a с типом byte равно " + a);
+        System.out.println("Значение переменной b с типом short равно " + b);
+        System.out.println("Значение переменной c с типом int равно " + c);
+        System.out.println("Значение переменной d с типом int равно " + d);
+        System.out.println("Значение переменной e с типом long равно " + e);
+        System.out.println("Значение переменной f с типом float равно " + f);
+        System.out.println("Значение переменной g с типом double равно " + g);
 
         System.out.println("Задание 3");
 
